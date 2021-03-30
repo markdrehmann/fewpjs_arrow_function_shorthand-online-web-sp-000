@@ -1,6 +1,6 @@
 # Arrow Function Shorthand
 
-## Learning Goals
+### Learning Goals
 
 - Declare a function using a function expression
 - Declare a function using an arrow function
